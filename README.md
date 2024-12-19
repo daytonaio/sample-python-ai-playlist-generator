@@ -1,6 +1,6 @@
 # Sample Python/Flask Application  
 
-A Python-based application that dynamically generates playlists based on the user's emotional state and inputs, using APIs and machine learning techniques.
+A Python-based application that dynamically generates playlists based on the user's emotional state and input, using APIs and machine learning techniques.
 
 ---
 ## 🚀 Getting Started
